@@ -1,0 +1,4 @@
+    Motivasi saya mengikuti bootcamp laravel ini untuk memperdalam ilmu pemrograman di bidang web dikarenakan sangat sulit jika mempelajari ini
+secara otodidak tapi tidak tau apa yang mau dibuat dan disinilah mengapa saya mengikuti bootcamp karena diberikan tugas sehingga tau apa yang
+ingin dikerjakan dan harapannya adalah mungkin hanya dalam masa bootcamp ini tidak mungkin langsung mahir menguasai laravel tapi setidaknya tahu
+bagaimana cara penggunaan laravel yang nantinya bisa dikembangkan lagi setelah selesai bootcamp ini.
