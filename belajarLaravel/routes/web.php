@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\TableController;
+use App\Http\Controllers\CastController;
 
 /*
 |--------------------------------------------------------------------------
@@ -25,3 +26,5 @@ Route::post('/home', [AuthController::class,'home']);
 Route::get('/table', [TableController::class,'table']);
 
 Route::get('/data-table', [TableController::class,'dataTable']);
+
+Route::resource('cast', CastController::class);
